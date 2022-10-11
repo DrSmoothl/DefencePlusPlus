@@ -1,0 +1,11 @@
+{
+	"replace":false,
+	"values":
+	[
+		"dpp:main/load",
+		"dpp:eggs/load",
+		"dpp:other/load",
+		"dpp:redstone/load",
+		"dpp:main/worldsettings"
+	]
+}

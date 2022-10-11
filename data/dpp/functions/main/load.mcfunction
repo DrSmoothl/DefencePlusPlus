@@ -1,0 +1,3 @@
+tellraw @a [{"text": "[ ","color": "aqua"},{"text": "D","color": "blue"},{"text": "P","color": "red"},{"text": "P","color":"gold"},{"text": " ]","color": "aqua"},{"text": " Defence Plus Plus","color": "dark_aqua"},{"text":"  | 反地图破坏系统已加载！","color":"green","bold":false}]
+tellraw @a [{"text": "[ ","color": "aqua"},{"text": "D","color": "blue"},{"text": "P","color": "red"},{"text": "P","color":"gold"},{"text": " ]","color": "aqua"},{"text":" 作者：","color":"green","bold":false},{"text": "easy_Peace，DrSmooth","color": "red"}]
+execute at @a run playsound minecraft:block.respawn_anchor.charge block @a

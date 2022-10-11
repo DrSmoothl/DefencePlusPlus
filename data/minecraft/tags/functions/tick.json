@@ -1,0 +1,14 @@
+{
+	"values":
+	[
+		"dpp:eggs/eggs",
+		"dpp:redstone/redstone",
+		"dpp:other/function",
+		"dpp:other/menu",
+		"dpp:main/detect",
+		"dpp:main/actionbar",
+		"dpp:objectiveandtag/open",
+		"dpp:other/gm",
+		"dpp:punish/punish"
+	]
+}
