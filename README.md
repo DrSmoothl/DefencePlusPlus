@@ -1,4 +1,4 @@
-# Defence++ - 更好的网易创造服防熊系统
+# Defence++ - 更好的网易防熊系统
 
 #### 前言：
 
@@ -65,5 +65,15 @@ C:\MCLDownload\Game\.minecraft\saves\Langame-(您的存档文件夹一般是save
 
 ## 数据包原理:
 
-- 本数据包采用nbt判定+tag识别+function惩罚机制  
++ 本数据包采用nbt判定+tag识别+function惩罚机制  
   采用白名单tag反选，房主也不用担心自己会被封禁
+
+#### Todo List
+
+- [ ] 数据包音效以及actionbar显示
+
+- [ ] 数据包粒子效果
+
+- [ ] 数据包惩罚模块
+
+
